@@ -3,8 +3,7 @@
 ### Junior Software Engineer | Flutter Developer
 
 📧 **ziadomaish202@gmail.com**  
-📱 **+962797305020**  
-🌍 [LinkedIn](https://www.linkedin.com/in/ziad-imaish) | [GitHub](https://github.com/ziadimaish)
+🌍 [LinkedIn](https://www.linkedin.com/in/ziad-imaish)
 
 ---
 
