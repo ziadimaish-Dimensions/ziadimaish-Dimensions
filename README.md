@@ -7,7 +7,7 @@
 
 ---
 
-👋 Hi there! I’m Ziad Imaish, a passionate **Junior Software Engineer** currently pursuing a **Bachelor of Science in Software Engineering** at **Princess Sumaya University for Technology**. With a keen interest in mobile app development, I specialize in building seamless user experiences using **Flutter**.
+👋 Hi there! I’m Ziad Imaish, a passionate **Junior Software Engineer** currently pursuing a **Bachelor of Science in Software Engineering** at **Princess Sumaya University for Technology**. I’m currently working as a **Junior Software Engineer** at **Dimensions Studio**, where I specialize in building seamless mobile applications using **Flutter**.
 
 ### 🛠️ Tech Stack
 - **Languages:** Dart, Java, Python, C/C++, SQL, JavaScript, HTML/CSS, C#, Swift
