@@ -33,4 +33,4 @@ Built a traffic sign recognition system using Convolutional Neural Networks (CNN
 
 ---
 
-Feel free to explore my projects and reach out if you'd like to collaborate on exciting software engineering projects!
+Feel free to explore my projects and reach out if you'd like to collaborate on exciting projects!
